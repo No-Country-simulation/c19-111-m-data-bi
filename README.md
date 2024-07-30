@@ -9,7 +9,7 @@ Proyecto - Analisis de abandono de carrito - NoCountry
  <h1 align="center"> PROYECTO ANÁLISIS DE CARRITO ABANDONADO </h1>
  </h1>
 <p align="center" >
-     <img width="500" heigth="300" src="img/Logo grande.png">
+     <img width="400" heigth="200" src="img/Logo grande.png">
 </p>
  <h2>Objetivos</h2>
 Analizar el comportamiento de los usuarios que
