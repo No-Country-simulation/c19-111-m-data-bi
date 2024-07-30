@@ -44,7 +44,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 <br />
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,figma" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,notion" />
     </a>
 </div>
 <br />
