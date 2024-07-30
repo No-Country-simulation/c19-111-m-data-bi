@@ -21,7 +21,6 @@ posibles razones y proponer estrategias de retención.
 
 ## 🛠️ Herramientas implementadas 
   - Power BI
-  - API
   - PowerPoint
   - Figma 
   - Vercel
