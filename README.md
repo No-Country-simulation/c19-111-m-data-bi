@@ -54,18 +54,18 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 **Descripción:** Visualización interactiva de los datos relacionados con el abandono del carrito.
 
 - **Archivo principal:** [`Abandono_Carrito_AMAZON_NoCountry (Power BI)`](Dashboard/Abandono_Carrito_AMAZON_NoCountry.pbix)
-- **Capturas de pantalla:** [`Seis imágenes de cada solapa del dashboard de Power BI para una visualización rápida.`](Dashboard)
+- **Capturas de pantalla:** [`Imágenes de cada solapa del dashboard de Power BI para una visualización rápida.`](Dashboard)
 
 ### 📂 Data
 **Descripción:** Conjunto de datos y documentación relacionada con el proceso de transformación de datos.
 
-- **Dataset original:** `Amazon Customer Behavior Survey`
-- **ETL:** `Amazon Customer Behavior Survey ETL` - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
+- **Dataset original:** [`Amazon Customer Behavior Survey`](Data)
+- **ETL:** [`Amazon Customer Behavior Survey ETL`](Data) - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
 
 ### 📑 Presentation
 **Descripción:** Informe final con conclusiones y recomendaciones basadas en los datos analizados.
 
-- **Presentación:** `NoCountry_c19_111_m_data_BI` - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
+- **Presentación:** [`NoCountry_c19_111_m_data_BI`](Presentation) - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
 
 
 ## Contribuidores
