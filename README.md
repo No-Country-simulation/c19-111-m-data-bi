@@ -87,18 +87,18 @@ Frecuencia de Finalización del Carrito: Un número considerable de usuarios no 
 AGREGAMOS ALGUNA IMAGEN ACA? QUEDA BIEN EL LINK ASI ACA ABAJO?
 <div align="center">
   <h3>
-    <a href="https://sites.google.com/view/analyticasolutions">
-
-
-
-      
+    <a href="https://sites.google.com/view/analyticasolutions" >
       🔗 Visitar la Página del Proyecto
     </a>
   </h3>
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,notion,gmail" alt="Iconos de herramientas usadas">
   </a>
 </div>
+
+<br />
