@@ -4,7 +4,7 @@
 <h1 align="center">c19-111-m-data-bi</h1>
 
 <p align="center">
-  <img width="400" height="200" src="img/NoCountry.png" alt="Logo de NoCountry">
+  <img width="400" height="400" src="img/NoCountry.png" alt="Logo de NoCountry">
 </p>
 
 <h1 align="center">Analytica Solutions</h1>
