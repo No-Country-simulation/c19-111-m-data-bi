@@ -29,6 +29,7 @@ Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de 
 1? Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y resultados de valor.
+
 2? Hemos adoptado la metodología Scrum para gestionar este proyecto, aprovechando su enfoque ágil y flexible para trabajar en un entorno dinámico. Scrum nos permite entregar incrementos de trabajo funcional de manera continua, con un enfoque en la adaptación y mejora constante.
 
 (Incorporar link de organizacion durante proyecto)
