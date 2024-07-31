@@ -43,21 +43,6 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 - Canva : Para el diseño de elementos gráficos.
 - Google Sites : Para la publicación y presentación del proyecto.
 
-
-<div align="center">
-  <h3>
-    <a href="https://sites.google.com/view/analyticasolutions">
-      🔗 Visitar la Página del Proyecto
-    </a>
-  </h3>
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,gmail" alt="Iconos de herramientas usadas">
-  </a>
-</div>
-
 ## Contenidos del Proyecto
 
 ### 📊 Dashboard
@@ -85,3 +70,16 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 ¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.
 
+<div align="center">
+  <h3>
+    <a href="https://sites.google.com/view/analyticasolutions">
+      🔗 Visitar la Página del Proyecto
+    </a>
+  </h3>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,notion,gmail" alt="Iconos de herramientas usadas">
+  </a>
+</div>
