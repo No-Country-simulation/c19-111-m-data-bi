@@ -14,22 +14,33 @@
   <img width="400" height="200" src="img/Logo grande.png" alt="Logo de Analytica Solutions">
 </p>
 
+## Descripción del proyecto
+Este proyecto se centra en el análisis del abandono de carrito en una plataforma de e-commerce. El objetivo principal es identificar las razones por las cuales los usuarios abandonan sus carritos y proponer estrategias para mejorar la retención de clientes y aumentar las conversiones. El análisis se ha llevado a cabo utilizando herramientas de visualización de datos y técnicas de análisis de comportamiento del cliente.
+
 ## Objetivos
 Analizar el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce para identificar posibles razones y proponer estrategias de retención.
 
-## 🛠️ Herramientas implementadas 
-- Power BI
-- Git || GitHub || GitHub Pages
-- Notion
-- Slack
-- PowerPoint
-- Canva
-- Google Sites
+##  Descripción del equipo y roles
+Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de visualizaciones en Power BI.
+(VERIFICAR SI LO QUEREMOS PONER)
 
 ## Metodología de trabajo: Scrum
-Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
+1? Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y resultados de valor.
+2? Hemos adoptado la metodología Scrum para gestionar este proyecto, aprovechando su enfoque ágil y flexible para trabajar en un entorno dinámico. Scrum nos permite entregar incrementos de trabajo funcional de manera continua, con un enfoque en la adaptación y mejora constante.
+
+(incorporar link de organizacion durante proyecto)
+
+## 🛠️ Herramientas implementadas 
+- Power BI : Para la visualización y análisis de datos.
+- Git || GitHub || GitHub Pages : Para el control de versiones y colaboración en el proyecto.
+- Notion : Para la gestión de tareas y documentación.
+- Slack : Para la comunicación y coordinación del equipo.
+- PowerPoint : Para la creación de presentaciones de resultados.
+- Canva : Para el diseño de elementos gráficos.
+- Google Sites : Para la publicación y presentación del proyecto.
+
 
 <div align="center">
   <h3>
