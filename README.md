@@ -26,7 +26,7 @@ Analizar el comportamiento de los usuarios que abandonan el carrito de compras e
 - **Fabio Maculus - Data Analyst:** Responsable del análisis de datos y creación de visualizaciones en Power BI.
 - 
 
-*(VERIFICAR SI LO QUEREMOS PONER)*
+**(VERIFICAR SI LO QUEREMOS PONER)**
 
 
 ## 📇 Metodología de trabajo: Scrum
@@ -36,18 +36,18 @@ Además, utilizamos Notion para organizar fechas, temas tratados y tareas durant
 
 Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
 
-(Incorporar link de organizacion durante proyecto)
-(ADEMAS ACA ABAJO PODEMOS AGREGAR IMAGEN DE UN DIAGRAMA DE GANT SEPARADO POR ETAPAS)
+**(Incorporar link de organizacion durante proyecto)
+(ADEMAS ACA ABAJO PODEMOS AGREGAR IMAGEN DE UN DIAGRAMA DE GANT SEPARADO POR ETAPAS)**
 
 
 ## 🛠️ Herramientas implementadas 
-- **Power BI :** Para la visualización y análisis de datos.
-- **Git || GitHub || GitHub Pages :** Para el control de versiones y colaboración en el proyecto.
-- **Notion :** Para la gestión de tareas y documentación.
-- **Slack :** Para la comunicación y coordinación del equipo.
-- **PowerPoint :** Para la creación de presentaciones de resultados.
-- **Canva :** Para el diseño de elementos gráficos.
-- **Google Sites :** Para la publicación y presentación del proyecto.
+- **Power BI :**  Para la visualización y análisis de datos.
+- **Git || GitHub || GitHub Pages :**  Para el control de versiones y colaboración en el proyecto.
+- **Notion :**  Para la gestión de tareas y documentación.
+- **Slack :**  Para la comunicación y coordinación del equipo.
+- **PowerPoint :**  Para la creación de presentaciones de resultados.
+- **Canva :**  Para el diseño de elementos gráficos.
+- **Google Sites :**  Para la publicación y presentación del proyecto.
 
 
 ## Contenidos del Proyecto
@@ -91,7 +91,7 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 
 ¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.
 
-AGREGAMOS ALGUNA IMAGEN ACA? QUEDA BIEN EL LINK ASI ACA ABAJO?
+**AGREGAMOS ALGUNA IMAGEN ACA? QUEDA BIEN EL LINK ASI ACA ABAJO?**
 <div align="center">
   <h3>
     <a href="https://sites.google.com/view/analyticasolutions" >
