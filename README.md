@@ -84,12 +84,13 @@ Frecuencia de Finalización del Carrito: Un número considerable de usuarios no 
 
 ¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.
 
+AGREGAMOS ALGUNA IMAGEN ACA? QUEDA BIEN EL LINK ASI ACA ABAJO?
 <div align="center">
   <h3>
     <a href="https://sites.google.com/view/analyticasolutions">
 
 
-AGREGAMOS ALGUNA IMAGEN ACA? QUEDA BIEN EL LINK ASI ACA ABAJO?
+
       
       🔗 Visitar la Página del Proyecto
     </a>
