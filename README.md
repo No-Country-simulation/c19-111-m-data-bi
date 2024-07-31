@@ -22,6 +22,7 @@ Analizar el comportamiento de los usuarios que abandonan el carrito de compras e
 
 ##  Descripción del equipo y roles
 Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de visualizaciones en Power BI.
+
 (VERIFICAR SI LO QUEREMOS PONER)
 
 ## Metodología de trabajo: Scrum
@@ -30,7 +31,7 @@ Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y resultados de valor.
 2? Hemos adoptado la metodología Scrum para gestionar este proyecto, aprovechando su enfoque ágil y flexible para trabajar en un entorno dinámico. Scrum nos permite entregar incrementos de trabajo funcional de manera continua, con un enfoque en la adaptación y mejora constante.
 
-(incorporar link de organizacion durante proyecto)
+(Incorporar link de organizacion durante proyecto)
 
 ## 🛠️ Herramientas implementadas 
 - Power BI : Para la visualización y análisis de datos.
