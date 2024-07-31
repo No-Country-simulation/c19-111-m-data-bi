@@ -29,11 +29,11 @@ Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de 
 
 
 ## Metodología de trabajo: Scrum
-1? Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
+Para gestionar este proyecto, adoptamos la metodología Scrum, una opción ideal para proyectos en entornos complejos y dinámicos que requieren agilidad y resultados rápidos. Scrum se basa en entregas parciales y regulares del producto final, priorizando el valor entregado a los clientes. Esto nos permitió trabajar de manera ágil y adaptarnos continuamente a las necesidades cambiantes del proyecto.
 
-Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y resultados de valor.
+Además, utilizamos Notion para organizar fechas, temas tratados y tareas durante el proyecto. Esta herramienta nos ayudó a centralizar la información, facilitar la comunicación y mantener un seguimiento claro del progreso.
 
-2? Hemos adoptado la metodología Scrum para gestionar este proyecto, aprovechando su enfoque ágil y flexible para trabajar en un entorno dinámico. Scrum nos permite entregar incrementos de trabajo funcional de manera continua, con un enfoque en la adaptación y mejora constante.
+Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
 
 (Incorporar link de organizacion durante proyecto)
 
@@ -74,6 +74,8 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 Relación entre Calificación y Ventas: Se observa una correlación positiva entre las calificaciones de los productos y el volumen de ventas. Las opiniones favorables de los clientes influyen significativamente en sus decisiones de compra. Por lo tanto, mantener una alta calidad en los productos y proporcionar un excelente servicio al cliente son aspectos cruciales para obtener calificaciones positivas y, consecuentemente, incrementar las ventas.
 
 Frecuencia de Finalización del Carrito: Un número considerable de usuarios no completa la compra después de añadir productos al carrito. Esto sugiere la existencia de barreras como la posibilidad de encontrar mejores precios en otros lugares o la pérdida de interés en el producto. Identificar y eliminar estos obstáculos es fundamental para mejorar la tasa de conversión, lo que puede resultar en un aumento de los ingresos y una mayor satisfacción del cliente.
+
+## Estrategias de retención
 
 
 ## Contribuidores
