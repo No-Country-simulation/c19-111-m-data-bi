@@ -52,10 +52,11 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 ### 📊 Dashboard
 **Descripción:** Visualización interactiva de los datos relacionados con el abandono del carrito.
-Archivo principal: Abandono_Carrito_AMAZON_NoCountry (Power BI)
 
-- **Archivo principal:** `Abandono_Carrito_AMAZON_NoCountry` (Power BI)
-- **Capturas de pantalla:** Seis imágenes de cada solapa del dashboard de Power BI para una visualización rápida.
+
+
+- **Archivo principal:** [`Abandono_Carrito_AMAZON_NoCountry` (Power BI)](Dashboard/Abandono_Carrito_AMAZON_NoCountry.pbix)
+- **Capturas de pantalla:** [Seis imágenes de cada solapa del dashboard de Power BI para una visualización rápida.](Dashboard/screenshots)
 
 ### 📂 Data
 **Descripción:** Conjunto de datos y documentación relacionada con el proceso de transformación de datos.
