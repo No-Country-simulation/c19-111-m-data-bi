@@ -33,4 +33,22 @@ Proyecto - Análisis de abandono de carrito - NoCountry
 
 <h2>Metodología de trabajo: Scrum</h2>
 <p>Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.</p>
-<p>Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y
+<p>Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y resultados de valor.</p>
+
+<div align="center">
+  <h3>
+    <a href="https://sites.google.com/view/analyticasolutions" >
+      🔗 Visitar la Página del Proyecto
+    </a>
+  </h3>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,notion" alt="Iconos de herramientas usadas">
+  </a>
+</div>
+
+<br />
