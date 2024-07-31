@@ -21,13 +21,12 @@ Proyecto - Análisis de abandono de carrito - NoCountry
 
 ## 🛠️ Herramientas implementadas 
 - Power BI
-- PowerPoint
-- Figma
-- Vercel
-- Google Sites
 - Git || GitHub || GitHub Pages
 - Notion
 - Slack
+- PowerPoint
+- Canva
+- Google Sites
 
 <br>
 
@@ -47,7 +46,7 @@ Proyecto - Análisis de abandono de carrito - NoCountry
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,notion" alt="Iconos de herramientas usadas">
+    <img src="https://skillicons.dev/icons?i=git,github,notion,gmail" alt="Iconos de herramientas usadas">
   </a>
 </div>
 
