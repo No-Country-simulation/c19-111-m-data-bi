@@ -11,7 +11,7 @@
 <h1 align="center">PROYECTO ANÁLISIS DE CARRITO ABANDONADO</h1>
 
 <p align="center">
-  <img width="400" height="200" src="img/Logo Power BI.png" alt="Logo de Analytica Solutions">
+  <img width="600" height="400" src="img/Logo Power BI.png" alt="Logo de Analytica Solutions">
 </p>
 
 ## Descripción del proyecto
