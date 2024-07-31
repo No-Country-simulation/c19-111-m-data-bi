@@ -37,6 +37,7 @@ Además, utilizamos Notion para organizar fechas, temas tratados y tareas durant
 Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
 
 (Incorporar link de organizacion durante proyecto)
+(ADEMAS ACA ABAJO PODEMOS AGREGAR IMAGEN DE UN DIAGRAMA DE GANT SEPARADO POR ETAPAS)
 
 
 ## 🛠️ Herramientas implementadas 
@@ -82,7 +83,7 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 - **Tener plataforma optimizada y conectada a Google Analytics:** Se recomienda optimizar la plataforma de comercio electrónico para un rendimiento eficiente y conectar con Google Analytics. Esto permite monitorear el comportamiento del usuario, analizar datos y realizar ajustes informados para mejorar la experiencia del cliente y aumentar la conversión.
 - **Brindar soporte en tiempo real:** Ofrecer soporte al cliente en tiempo real mediante chat en vivo, ayudando a resolver dudas y problemas de manera inmediata, lo que puede aumentar la confianza del cliente y reducir el abandono del carrito.
 
-## Contribuidores
+## 🤝🏼 Contribuidores
 - **Equipo Analytica Solutions:** Somos un grupo dedicado de analistas de datos y desarrolladores, especializados en identificar y resolver problemas complejos a través del análisis de datos. Nuestro objetivo es transformar datos en información valiosa, proporcionando insights que impulsan decisiones estratégicas y optimizan procesos para nuestros clientes.
 
 
