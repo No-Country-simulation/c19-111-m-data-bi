@@ -22,6 +22,7 @@ Este proyecto se centra en el análisis del abandono de carrito en una plataform
 Analizar el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce para identificar posibles razones y proponer estrategias de retención.
 
 
+
 ##  Descripción del equipo y roles
 Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de visualizaciones en Power BI.
 
