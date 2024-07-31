@@ -62,9 +62,12 @@ Para más detalles sobre nuestra organización durante el proyecto, puedes consu
 **Descripción:** Conjunto de datos y documentación relacionada con el proceso de transformación de datos.
 
 - **Dataset original:** [`Amazon Customer Behavior Survey`](Data)
-- <iframe title="Abandono_Carrito_AMAZON_NoCountry" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTA2ZjlhMzktNDUxOC00MGE2LTk5MTktMGQyMjIwNzQyYzJlIiwidCI6ImY5NGJmNGQ5LTgwOTctNDc5NC1hZGY2LWE1NDY2Y2EyODU2MyIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+- <div>
+  <iframe title="Abandono_Carrito_AMAZON_NoCountry" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTA2ZjlhMzktNDUxOC00MGE2LTk5MTktMGQyMjIwNzQyYzJlIiwidCI6ImY5NGJmNGQ5LTgwOTctNDc5NC1hZGY2LWE1NDY2Y2EyODU2MyIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 - **ETL:** [`Amazon Customer Behavior Survey ETL`](Data) - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
 
+</div>
+- 
 ### 📑 Presentation
 **Descripción:** Informe final con conclusiones y recomendaciones basadas en los datos analizados.
 
