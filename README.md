@@ -17,13 +17,16 @@
 ## Descripción del proyecto
 Este proyecto se centra en el análisis del abandono de carrito en una plataforma de e-commerce. El objetivo principal es identificar las razones por las cuales los usuarios abandonan sus carritos y proponer estrategias para mejorar la retención de clientes y aumentar las conversiones. El análisis se ha llevado a cabo utilizando herramientas de visualización de datos y técnicas de análisis de comportamiento del cliente.
 
+
 ## Objetivos
 Analizar el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce para identificar posibles razones y proponer estrategias de retención.
+
 
 ##  Descripción del equipo y roles
 Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de visualizaciones en Power BI.
 
 (VERIFICAR SI LO QUEREMOS PONER)
+
 
 ## Metodología de trabajo: Scrum
 1? Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
@@ -34,6 +37,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 (Incorporar link de organizacion durante proyecto)
 
+
 ## 🛠️ Herramientas implementadas 
 - Power BI : Para la visualización y análisis de datos.
 - Git || GitHub || GitHub Pages : Para el control de versiones y colaboración en el proyecto.
@@ -42,6 +46,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 - PowerPoint : Para la creación de presentaciones de resultados.
 - Canva : Para el diseño de elementos gráficos.
 - Google Sites : Para la publicación y presentación del proyecto.
+
 
 ## Contenidos del Proyecto
 
@@ -61,6 +66,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 **Descripción:** Informe final con conclusiones y recomendaciones basadas en los datos analizados.
 
 - **Presentación:** `NoCountry_c19_111_m_data_BI` - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
+
 
 ## Contribuidores
 - **Equipo Analytica Solutions:** Somos un grupo dedicado de analistas de datos y desarrolladores, especializados en identificar y resolver problemas complejos a través del análisis de datos. Nuestro objetivo es transformar datos en información valiosa, proporcionando insights que impulsan decisiones estratégicas y optimizan procesos para nuestros clientes.
