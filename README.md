@@ -88,7 +88,9 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 ## 🤝🏼 Contribuidores
 - **Equipo Analytica Solutions:** Somos un grupo dedicado de analistas de datos y desarrolladores, especializados en identificar y resolver problemas complejos a través del análisis de datos. Nuestro objetivo es transformar datos en información valiosa, proporcionando insights que impulsan decisiones estratégicas y optimizan procesos para nuestros clientes.
 
+### **Integrantes del equipo**
 
+<img src="img/Agustin del Valle1.png" alt="Texto alternativo" width="400" height="400"> <img src="img/Carolina Lopez.png" alt="Texto alternativo" width="400" height="400"> <img src="img/Fabio Maculus.png" alt="Texto alternativo" width="400" height="400"> <img src="img/Angélica Alonso.png" alt="Texto alternativo" width="400" height="400"> <img src="img/Milton Dorado.png" alt="Texto alternativo" width="400" height="400">
 ---
 
 ¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.
