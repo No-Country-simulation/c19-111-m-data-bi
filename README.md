@@ -23,7 +23,8 @@ Analizar el comportamiento de los usuarios que abandonan el carrito de compras e
 
 
 ##  Descripción del equipo y roles
-Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de visualizaciones en Power BI.
+- Fabio Maculus - Data Analyst: Responsable del análisis de datos y creación de visualizaciones en Power BI.
+- 
 
 (VERIFICAR SI LO QUEREMOS PONER)
 
@@ -59,8 +60,8 @@ Para más detalles sobre nuestra organización durante el proyecto, puedes consu
 ### 📂 Data
 **Descripción:** Conjunto de datos y documentación relacionada con el proceso de transformación de datos.
 
-- **Dataset original:** [`Amazon Customer Behavior Survey`](Data/Amazon_Customer_Behavior_Survey)
-- **ETL:** [`Amazon Customer Behavior Survey ETL`](Data/Amazon_Customer_Behavior_Survey_ETL) - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
+- **Dataset original:** [`Amazon Customer Behavior Survey`](Data/Amazon_Customer_Behavior_Survey.csv)
+- **ETL:** [`Amazon Customer Behavior Survey ETL`](Data/Amazon_Customer_Behavior_Survey_ETL.txt) - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
 
 ### 📑 Presentation
 **Descripción:** Informe final con conclusiones y recomendaciones basadas en los datos analizados.
@@ -71,9 +72,9 @@ Para más detalles sobre nuestra organización durante el proyecto, puedes consu
 ## Conclusiones clave
 Este proyecto analiza datos de abandono de carrito en un sitio web de comercio electrónico. El objetivo fue identificar factores que influyen en la decisión de completar o abandonar las compras, para implementar mejoras que aumenten la tasa de conversión.
 
-Relación entre Calificación y Ventas: Se observa una correlación positiva entre las calificaciones de los productos y el volumen de ventas. Las opiniones favorables de los clientes influyen significativamente en sus decisiones de compra. Por lo tanto, mantener una alta calidad en los productos y proporcionar un excelente servicio al cliente son aspectos cruciales para obtener calificaciones positivas y, consecuentemente, incrementar las ventas.
+- Relación entre Calificación y Ventas: Se observa una correlación positiva entre las calificaciones de los productos y el volumen de ventas. Las opiniones favorables de los clientes influyen significativamente en sus decisiones de compra. Por lo tanto, mantener una alta calidad en los productos y proporcionar un excelente servicio al cliente son aspectos cruciales para obtener calificaciones positivas y, consecuentemente, incrementar las ventas.
 
-Frecuencia de Finalización del Carrito: Un número considerable de usuarios no completa la compra después de añadir productos al carrito. Esto sugiere la existencia de barreras como la posibilidad de encontrar mejores precios en otros lugares o la pérdida de interés en el producto. Identificar y eliminar estos obstáculos es fundamental para mejorar la tasa de conversión, lo que puede resultar en un aumento de los ingresos y una mayor satisfacción del cliente.
+- Frecuencia de Finalización del Carrito: Un número considerable de usuarios no completa la compra después de añadir productos al carrito. Esto sugiere la existencia de barreras como la posibilidad de encontrar mejores precios en otros lugares o la pérdida de interés en el producto. Identificar y eliminar estos obstáculos es fundamental para mejorar la tasa de conversión, lo que puede resultar en un aumento de los ingresos y una mayor satisfacción del cliente.
 
 ## Estrategias de retención
 
