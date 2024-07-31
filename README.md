@@ -26,7 +26,7 @@ Analizar el comportamiento de los usuarios que abandonan el carrito de compras e
 - **Fabio Maculus - Data Analyst:** Responsable del análisis de datos y creación de visualizaciones en Power BI.
 - 
 
-(VERIFICAR SI LO QUEREMOS PONER)
+*(VERIFICAR SI LO QUEREMOS PONER)*
 
 
 ## 📇 Metodología de trabajo: Scrum
