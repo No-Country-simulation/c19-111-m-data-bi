@@ -92,10 +92,10 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 ### **Integrantes del equipo**
 
 <img src="img/Agustin del Valle1.png" alt="Texto alternativo" width="250" height="250"> <img src="img/Carolina Lopez.png" alt="Texto alternativo" width="250" height="250"> <a href="https://www.linkedin.com/in/fabio-maculus-asistente-administrativo-contable/"><img src="img/Fabio Maculus.png" alt="Texto alternativo" width="250" height="250"> 
-<img src="img/Angélica Alonso.png" alt="Texto alternativo" width="250" height="250"> <img src="img/Milton Dorado.png" alt="Texto alternativo" width="250" height="250">
+<a href="https://www.linkedin.com/in/angélica-alonso-433834243"><img src="img/Angélica Alonso.png" alt="Texto alternativo" width="250" height="250"><a href="www.linkedin.com/in/milton-dorado"> <img src="img/Milton Dorado.png" alt="Texto alternativo" width="250" height="250">
 ---
 
-¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.
+**¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.**
 
 
 
@@ -103,7 +103,7 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
   <a href="https://sites.google.com/view/analyticasolutions" style="text-decoration: none; color: inherit;">
     <img src="https://blog.bunkerdb.com/wp-content/uploads/2022/05/pexels-nataliya-vaitkevich-6214452-scaled-1-1024x683.jpg" alt="Página del Proyecto" width="300" height="150" style="border-radius: 10px;">
     <div style="padding: 10px 0; font-size: 18px; color: #333;">
-      🔗 Visitar la Página del Proyecto
+      🔗 VISITAR LA PÁGINA DEL PROYECTO
     </div>
   </a>
 </div>
