@@ -69,7 +69,8 @@ Para más detalles sobre nuestra organización durante el proyecto, puedes consu
 ### 📑 Presentation
 **Descripción:** Informe final con conclusiones y recomendaciones basadas en los datos analizados.
 
-- **Presentación:** [`NoCountry_c19_111_m_data_BI`](Presentation) - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
+- 
+**Presentación:** [`NoCountry_c19_111_m_data_BI`](Presentation) - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
 
 
 ## 📢 Conclusiones clave
