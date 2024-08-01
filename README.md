@@ -37,6 +37,7 @@ Además, utilizamos Notion para organizar fechas, temas tratados y tareas durant
 Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
 
 **(Incorporar link de organizacion durante proyecto)
+
 (ADEMAS ACA ABAJO PODEMOS AGREGAR IMAGEN DE UN DIAGRAMA DE GANT SEPARADO POR ETAPAS)**
 
 
@@ -65,12 +66,11 @@ Para más detalles sobre nuestra organización durante el proyecto, puedes consu
 - **ETL:** [`Amazon Customer Behavior Survey ETL`](Data) - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
 
 </div>
-- 
+ 
 ### 📑 Presentation
 **Descripción:** Informe final con conclusiones y recomendaciones basadas en los datos analizados.
 
-- 
-**Presentación:** [`NoCountry_c19_111_m_data_BI`](Presentation) - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
+- **Presentación:** [`NoCountry_c19_111_m_data_BI`](Presentation) - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
 
 
 ## 📢 Conclusiones clave
@@ -91,7 +91,7 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 
 ### **Integrantes del equipo**
 
-<img src="img/Agustin del Valle1.png" alt="Texto alternativo" width="250" height="250"> <img src="img/Carolina Lopez.png" alt="Texto alternativo" width="250" height="250"> <img src="img/Fabio Maculus.png" alt="Texto alternativo" width="250" height="250"> 
+<img src="img/Agustin del Valle1.png" alt="Texto alternativo" width="250" height="250"> <img src="img/Carolina Lopez.png" alt="Texto alternativo" width="250" height="250"> <a href="https://www.linkedin.com/in/fabio-maculus-asistente-administrativo-contable/"><img src="img/Fabio Maculus.png" alt="Texto alternativo" width="250" height="250"> 
 <img src="img/Angélica Alonso.png" alt="Texto alternativo" width="250" height="250"> <img src="img/Milton Dorado.png" alt="Texto alternativo" width="250" height="250">
 ---
 
