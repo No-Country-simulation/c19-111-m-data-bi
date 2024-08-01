@@ -98,20 +98,11 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 ¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.
 
 **AGREGAMOS ALGUNA IMAGEN ACA? QUEDA BIEN EL LINK ASI ACA ABAJO?**
-<div align="center">
-  <h3>
-    <a href="https://sites.google.com/view/analyticasolutions" >
+<div align="center" style="position: relative;">
+  <a href="https://sites.google.com/view/analyticasolutions" style="text-decoration: none;">
+    <img src="https://blog.bunkerdb.com/wp-content/uploads/2022/05/pexels-nataliya-vaitkevich-6214452-scaled-1-1024x683.jpg" alt="Página del Proyecto" width="400" height="200" style="opacity: 0.7; filter: blur(1px);">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px;">
       🔗 Visitar la Página del Proyecto
-    </a>
-  </h3>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,gmail" alt="Iconos de herramientas usadas">
+    </div>
   </a>
 </div>
-
-<br />
