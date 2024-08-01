@@ -36,9 +36,9 @@ Además, utilizamos Notion para organizar fechas, temas tratados y tareas durant
 
 Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
 
-**(Incorporar link de organizacion durante proyecto)
+**(Incorporar link de NOTION)
 
-(ADEMAS ACA ABAJO PODEMOS AGREGAR IMAGEN DE UN DIAGRAMA DE GANT SEPARADO POR ETAPAS)**
+(ADJUNTAR DIAGRAMA GANT)**
 
 
 ## 🛠️ Herramientas implementadas 
