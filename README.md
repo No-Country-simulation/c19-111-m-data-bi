@@ -92,7 +92,8 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 ### **Integrantes del equipo**
 
 <img src="img/Agustin del Valle1.png" alt="Texto alternativo" width="250" height="250"> <img src="img/Carolina Lopez.png" alt="Texto alternativo" width="250" height="250"> <a href="https://www.linkedin.com/in/fabio-maculus-asistente-administrativo-contable/"><img src="img/Fabio Maculus.png" alt="Texto alternativo" width="250" height="250"> 
-<a href="https://www.linkedin.com/in/angélica-alonso-433834243"><img src="img/Angélica Alonso.png" alt="Texto alternativo" width="250" height="250"><a href="www.linkedin.com/in/milton-dorado/"> <img src="img/Milton Dorado.png" alt="Texto alternativo" width="250" height="250">
+<a href="https://www.linkedin.com/in/angélica-alonso-433834243"><img src="img/Angélica Alonso.png" alt="Texto alternativo" width="250" height="250">
+<a href="https://www.linkedin.com/in/milton-dorado/"> <img src="img/Milton Dorado.png" alt="Texto alternativo" width="250" height="250">
 ---
 
 **¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.**
