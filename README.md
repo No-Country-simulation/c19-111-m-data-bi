@@ -103,7 +103,7 @@ Este proyecto analiza datos de abandono de carrito en un sitio web de comercio e
 
 <div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <a href="https://sites.google.com/view/analyticasolutions" style="text-decoration: none; color: inherit;">
-    <img src="https://blog.bunkerdb.com/wp-content/uploads/2022/05/pexels-nataliya-vaitkevich-6214452-scaled-1-1024x683.jpg" alt="Página del Proyecto" width="500" height="150" style="border-radius: 10px;">
+    <img src="img/carro-compra-sobre-pantalla-tablet.png" alt="Página del Proyecto" width="400" height="400" style="border-radius: 10px;">
     <div style="padding: 10px 0; font-size: 18px; color: #333;">
       🔗 VISITAR LA PÁGINA DEL PROYECTO
     </div>
