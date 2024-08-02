@@ -27,7 +27,7 @@ Analizar el comportamiento de los usuarios que abandonan el carrito de compras e
 - **Angélica Alonso - UX Designer:** Responsable de analizar y mejorar la experiencia del usuario.
 - **Fabio Maculus - Data Analyst:** Responsable del análisis de datos y creación de visualizaciones en Power BI.
 - **Milton Dorado - Data Engineer:** Encargada de la extracción, transformación y carga de datos (ETL).
-- **Carolina López - UX Designer:** Encargada del diseño de la interfaz de usuario, asegurando que las visualizaciones sean atractivas y funcionales.
+- **Carolina López - Data Analytics | UI Designer:** Responsable del análisis de datos y creación de visualizaciones en Power BI / Encargada del diseño de la interfaz de usuario, asegurando que las visualizaciones sean atractivas y funcionales.
 
 
 ## 📇 Metodología de trabajo: Scrum
