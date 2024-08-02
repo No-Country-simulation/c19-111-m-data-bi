@@ -23,10 +23,11 @@ Analizar el comportamiento de los usuarios que abandonan el carrito de compras e
 
 
 ## 👥 Descripción del equipo y roles
+- **Agustin del Valle - Project Manager:** Responsable de la coordinación del equipo y la gestión del proyecto.
+- **Angélica Alonso - UX Designer:** Responsable de analizar y mejorar la experiencia del usuario.
 - **Fabio Maculus - Data Analyst:** Responsable del análisis de datos y creación de visualizaciones en Power BI.
-- 
-
-**(VERIFICAR SI LO QUEREMOS PONER)**
+- **Milton Dorado - Data Engineer:** Encargada de la extracción, transformación y carga de datos (ETL).
+- **Carolina López - UX Designer:** Encargada del diseño de la interfaz de usuario, asegurando que las visualizaciones sean atractivas y funcionales.
 
 
 ## 📇 Metodología de trabajo: Scrum
@@ -36,9 +37,9 @@ Además, utilizamos Notion para organizar fechas, temas tratados y tareas durant
 
 Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
 
-**(Incorporar link de NOTION)
+**(Incorporar link de NOTION)**
 
-(ADJUNTAR DIAGRAMA GANT)**
+**(ADJUNTAR DIAGRAMA GANT)**
 
 
 ## 🛠️ Herramientas implementadas 
