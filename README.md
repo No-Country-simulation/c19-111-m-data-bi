@@ -37,6 +37,13 @@ Además, utilizamos Notion para organizar fechas, temas tratados y tareas durant
 
 Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
 
+# Cronograma del Proyecto
+
+Puedes ver el cronograma detallado del proyecto en el siguiente [Notion](https://www.notion.so/Cronograma-Proyecto-No-Country-bf25bd29fc914286ac9bcbffc841c297?pvs=4).
+
+
+
+
 **(Incorporar link de NOTION)**
 
 **(ADJUNTAR DIAGRAMA GANT)**
