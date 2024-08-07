@@ -35,16 +35,9 @@ Para gestionar este proyecto, adoptamos la metodología Scrum, una opción ideal
 
 Además, utilizamos Notion para organizar fechas, temas tratados y tareas durante el proyecto. Esta herramienta nos ayudó a centralizar la información, facilitar la comunicación y mantener un seguimiento claro del progreso.
 
-Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en Notion.
-
 # Cronograma del Proyecto
 
-Puedes ver el cronograma detallado del proyecto en el siguiente [Notion](https://vagabond-twilight-026.notion.site/Cronograma-Proyecto-No-Country-bf25bd29fc914286ac9bcbffc841c297?pvs=4).
-
-
-
-
-**(Incorporar link de NOTION)**
+Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en [Notion.](https://vagabond-twilight-026.notion.site/Cronograma-Proyecto-No-Country-bf25bd29fc914286ac9bcbffc841c297?pvs=4).
 
 **(ADJUNTAR DIAGRAMA GANT)**
 
