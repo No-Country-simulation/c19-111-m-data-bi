@@ -39,7 +39,7 @@ Para más detalles sobre nuestra organización durante el proyecto, puedes consu
 
 # Cronograma del Proyecto
 
-Puedes ver el cronograma detallado del proyecto en el siguiente [Notion](https://www.notion.so/Cronograma-Proyecto-No-Country-bf25bd29fc914286ac9bcbffc841c297?pvs=4).
+Puedes ver el cronograma detallado del proyecto en el siguiente [Notion](https://vagabond-twilight-026.notion.site/Cronograma-Proyecto-No-Country-bf25bd29fc914286ac9bcbffc841c297?pvs=4).
 
 
 
