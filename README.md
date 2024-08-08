@@ -40,7 +40,7 @@ Además, utilizamos Notion para organizar fechas, temas tratados y tareas durant
 Para más detalles sobre nuestra organización durante el proyecto, puedes consultar nuestro enlace de organización en [`Notion`.](https://vagabond-twilight-026.notion.site/Cronograma-Proyecto-No-Country-bf25bd29fc914286ac9bcbffc841c297?pvs=4).
 
 <a href="https://vagabond-twilight-026.notion.site/Cronograma-Proyecto-No-Country-bf25bd29fc914286ac9bcbffc841c297?pvs=4" style="text-decoration: none; color: inherit;">
-    <img src="img/DIAGRAMA DE GANTT.png" alt="Página del Proyecto" width="800" height="800" style="border-radius: 10px;">
+    <img src="img/DIAGRAMA DE GANTT.png" alt="Página del Proyecto" width="1000" height="800" style="border-radius: 10px;">
 
 
 ## 🛠️ Herramientas implementadas 
