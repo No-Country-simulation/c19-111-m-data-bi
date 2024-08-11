@@ -65,7 +65,6 @@ Para más detalles sobre nuestra organización durante el proyecto, puedes consu
 **Descripción:** Conjunto de datos y documentación relacionada con el proceso de transformación de datos.
 
 - **Dataset original:** [`Amazon Customer Behavior Survey`](Data)
-- **ETL:** [`Amazon Customer Behavior Survey ETL`](Data) - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
 
 </div>
  
